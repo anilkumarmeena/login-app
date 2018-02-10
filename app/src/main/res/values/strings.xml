@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JASON</string>
+    <string name="btn_register1">Register</string>
+    <string name="email">Email</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="initial_email">Email</string>
+    <string name="initial_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">Not a member? Register now!</string>
+    <string name="btn_login1">Already registered. Login !</string>
+    <string name="btn_sign_out">Sign Out</string>
+</resources>
